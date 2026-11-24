@@ -1,7 +1,7 @@
 ## Hi, I'm Bruno 👋
 
-**Flutter engineer and contributor to the Flutter framework.**
-I build cross-platform apps with Flutter and fix what I find upstream in `flutter/flutter` and `flutter/packages`.
+**Senior Flutter engineer and contributor to the Flutter framework.**
+I've been building software for 10+ years. Today I work on Flutter open source (contracted via TCS), triaging `flutter/flutter` and fixing what I find in the framework, web engine and first-party packages.
 
 📍 Mexico &nbsp;·&nbsp; 💼 Open to new Flutter roles &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/brunocorona/)
 
@@ -9,7 +9,7 @@ I build cross-platform apps with Flutter and fix what I find upstream in `flutte
 
 ### Flutter framework contributions
 
-**[13 merged PRs in flutter/flutter](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Ambcorona+is%3Amerged)** &nbsp;·&nbsp; **[5 merged PRs in flutter/packages](https://github.com/flutter/packages/pulls?q=is%3Apr+author%3Ambcorona+is%3Amerged)**
+[![merged PRs in flutter/flutter](https://img.shields.io/github/issues-search?query=repo%3Aflutter%2Fflutter%20author%3Ambcorona%20is%3Apr%20is%3Amerged&label=merged%20PRs%20in%20flutter%2Fflutter&color=0468d7)](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Ambcorona+is%3Amerged) [![merged PRs in flutter/packages](https://img.shields.io/github/issues-search?query=repo%3Aflutter%2Fpackages%20author%3Ambcorona%20is%3Apr%20is%3Amerged&label=merged%20PRs%20in%20flutter%2Fpackages&color=0468d7)](https://github.com/flutter/packages/pulls?q=is%3Apr+author%3Ambcorona+is%3Amerged)
 
 **Accessibility and semantics**
 - Send a semantics update when only the identifier changes ([#196460](https://github.com/flutter/flutter/pull/196460))
@@ -37,16 +37,24 @@ I build cross-platform apps with Flutter and fix what I find upstream in `flutte
 
 ---
 
+### Products I've built and led
+
+- **Quiniela PRO, Co-founder (2018–2026):** built the product with Flutter and scaled it to **200K+ users** as a self-sustaining business.
+- **MenuEz, Flutter Tech Lead (2025):** led the product from concept to production launch on Flutter and a serverless Firebase stack, including Vertex AI content generation and a customer loyalty system.
+- **Stokkur Software, Senior Software Engineer, Flutter (2022–2025):** three years shipping Flutter apps for an Iceland-based studio.
+
+---
+
 ### Open-source Flutter UI
 
 | Project | What it is | Stars |
 | --- | --- | --- |
-| [flutter_movies](https://github.com/mbcorona/flutter_movies) | Movies app UI with custom animations | ⭐ 169 |
-| [bank_cards_manager](https://github.com/mbcorona/bank_cards_manager) | Bank cards manager UI | ⭐ 55 |
-| [flutter_cars_app](https://github.com/mbcorona/flutter_cars_app) | Cars app UI | ⭐ 50 |
-| [flutter_boatsapp_challenge](https://github.com/mbcorona/flutter_boatsapp_challenge) | Boats app UI challenge | ⭐ 39 |
-| [flutter_money_tracker](https://github.com/mbcorona/flutter_money_tracker) | Money tracker UI | ⭐ 36 |
-| [flutter_f1_challenge](https://github.com/mbcorona/flutter_f1_challenge) | F1 UI challenge | ⭐ 32 |
+| [flutter_movies](https://github.com/mbcorona/flutter_movies) | Movies app UI with custom animations | ![stars](https://img.shields.io/github/stars/mbcorona/flutter_movies?style=flat&label=%E2%AD%90&color=444) |
+| [bank_cards_manager](https://github.com/mbcorona/bank_cards_manager) | Bank cards manager UI | ![stars](https://img.shields.io/github/stars/mbcorona/bank_cards_manager?style=flat&label=%E2%AD%90&color=444) |
+| [flutter_cars_app](https://github.com/mbcorona/flutter_cars_app) | Cars app UI | ![stars](https://img.shields.io/github/stars/mbcorona/flutter_cars_app?style=flat&label=%E2%AD%90&color=444) |
+| [flutter_boatsapp_challenge](https://github.com/mbcorona/flutter_boatsapp_challenge) | Boats app UI challenge | ![stars](https://img.shields.io/github/stars/mbcorona/flutter_boatsapp_challenge?style=flat&label=%E2%AD%90&color=444) |
+| [flutter_money_tracker](https://github.com/mbcorona/flutter_money_tracker) | Money tracker UI | ![stars](https://img.shields.io/github/stars/mbcorona/flutter_money_tracker?style=flat&label=%E2%AD%90&color=444) |
+| [flutter_f1_challenge](https://github.com/mbcorona/flutter_f1_challenge) | F1 UI challenge | ![stars](https://img.shields.io/github/stars/mbcorona/flutter_f1_challenge?style=flat&label=%E2%AD%90&color=444) |
 
 ---
 
